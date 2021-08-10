@@ -1,0 +1,56 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = Single
+  Caption = 'Simple Screen Viewer v1.0 - (c) Dmitry Uspenskiy - Moscow 2021'
+  ClientHeight = 505
+  ClientWidth = 705
+  Fill.Color = claSteelblue
+  Fill.Kind = Solid
+  Position = ScreenCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object VertScrollBox1: TVertScrollBox
+    Position.X = 496.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 200.000000000000000000
+    Size.Height = 433.000000000000000000
+    Size.PlatformDefault = False
+    ShowScrollBars = False
+    Viewport.Width = 200.000000000000000000
+    Viewport.Height = 433.000000000000000000
+  end
+  object TreeView1: TTreeView
+    Enabled = False
+    Opacity = 0.500000000000000000
+    Position.X = 8.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 481.000000000000000000
+    Size.Height = 433.000000000000000000
+    Size.PlatformDefault = False
+    OnChange = TreeView1Change
+    Viewport.Width = 477.000000000000000000
+    Viewport.Height = 429.000000000000000000
+  end
+  object RoundRect1: TRoundRect
+    Cursor = crHandPoint
+    Position.X = 8.000000000000000000
+    Position.Y = 448.000000000000000000
+    Size.Width = 689.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    OnClick = RoundRect1Click
+    object Text1: TText
+      Align = Client
+      Size.Width = 689.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      Text = #1042#1099#1073#1077#1088#1080#1090#1077' '#1087#1072#1087#1082#1091'... '
+      OnClick = RoundRect1Click
+    end
+  end
+end

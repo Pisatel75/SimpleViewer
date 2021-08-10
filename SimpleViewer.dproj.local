@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.139,=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.08.09 17:06:00.673,=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.08.09 17:25:16.766,C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\MainForm.fmx=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021.08.09 17:25:16.766,C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\MainForm.pas=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.08.09 17:25:21.716,C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\SimpleViewer.dproj=C:\Users\vibro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021.08.09 18:55:49.191,=C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\Unit1.pas</Transaction>
+    <Transaction>2021.08.09 18:56:11.456,C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\GlobalVar.pas=C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\Unit1.pas</Transaction>
+    <Transaction>2021.08.10 10:00:12.981,=C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\Unit1.pas</Transaction>
+    <Transaction>2021.08.10 10:00:45.321,C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\LoadThreadUnit.pas=C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\Unit1.pas</Transaction>
+    <Transaction>2021.08.10 10:54:07.652,C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\LoadThreadUnit.pas=</Transaction>
+    <Transaction>2021.08.10 12:56:00.286,C:\Users\vibro\Desktop\Delphi 10.4\SimpleViewer\GlobalVar.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>  <PMyMAC iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
